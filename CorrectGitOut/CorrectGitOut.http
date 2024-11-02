@@ -1,0 +1,6 @@
+@CorrectGitOut_HostAddress = http://localhost:5182
+
+GET {{CorrectGitOut_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
